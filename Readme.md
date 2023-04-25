@@ -4,3 +4,4 @@
 * Projeto de Regressão Linear da Alura
 * Desafio TECH Minas - Frequências e Medidas
 * Projeto de Análise Gráfica com Seaborn da Alura
+* Notebook Python para análises com o uso de biblioteca Pandas
